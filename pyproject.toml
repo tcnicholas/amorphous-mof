@@ -1,0 +1,44 @@
+[project]
+name = "amorphous-mof"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "chic-lib>=0.1.19",
+    "h5py>=3.13.0",
+    "ipywidgets>=8.1.5",
+    "julia>=0.6.2",
+    "matplotlib>=3.10.0",
+    "structure-embedding>=0.0.1",
+    "tabulate>=0.9.0",
+    "umap-learn>=0.5.7",
+]
+
+[tool.ruff]
+line-length = 80
+indent-width = 4
+target-version = "py38"
+extend-include = ["*.ipynb", "*.pyi", "*.toml"]
+
+[tool.ruff.lint]
+select = ["E", "F", "UP", "B", "SIM", "I"]
+ignore = ["SIM300", "E402", "E703", "F722", "UP037", "F821", "B018", "E741"]
+fixable = ["ALL"]
+unfixable = []
+dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = false
+line-ending = "auto"
+
+[dependency-groups]
+dev = [
+    "notebook>=7.3.2",
+    "ruff>=0.9.7",
+]
+
+[tool.ruff.lint.pydocstyle]
+convention = "numpy"

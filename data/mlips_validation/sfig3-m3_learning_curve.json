@@ -1,0 +1,156 @@
+{
+    "64": {
+        "1": {
+            "energy_rmse(eV/atom)": 0.02749508996180074,
+            "force_rmse(eV/Angstrom)": 0.7244161498157723
+        },
+        "2": {
+            "energy_rmse(eV/atom)": 0.025734602621862872,
+            "force_rmse(eV/Angstrom)": 0.8689477007128864
+        },
+        "3": {
+            "energy_rmse(eV/atom)": 0.01672265489265258,
+            "force_rmse(eV/Angstrom)": 0.5661950704929463
+        },
+        "4": {
+            "energy_rmse(eV/atom)": 0.008380318183899962,
+            "force_rmse(eV/Angstrom)": 0.49955664327417854
+        },
+        "5": {
+            "energy_rmse(eV/atom)": 0.014357298725187205,
+            "force_rmse(eV/Angstrom)": 0.7413922430795389
+        }
+    },
+    "128": {
+        "1": {
+            "energy_rmse(eV/atom)": 0.009158985831932283,
+            "force_rmse(eV/Angstrom)": 0.4295987494341642
+        },
+        "2": {
+            "energy_rmse(eV/atom)": 0.008544627773061277,
+            "force_rmse(eV/Angstrom)": 0.46644057497786917
+        },
+        "3": {
+            "energy_rmse(eV/atom)": 0.013182232821176006,
+            "force_rmse(eV/Angstrom)": 0.48287877332764345
+        },
+        "4": {
+            "energy_rmse(eV/atom)": 0.010681078372918587,
+            "force_rmse(eV/Angstrom)": 0.4246766270067388
+        },
+        "5": {
+            "energy_rmse(eV/atom)": 0.006796610826364295,
+            "force_rmse(eV/Angstrom)": 0.45573771040042477
+        }
+    },
+    "256": {
+        "1": {
+            "energy_rmse(eV/atom)": 0.005926205964649878,
+            "force_rmse(eV/Angstrom)": 0.3493042819546349
+        },
+        "2": {
+            "energy_rmse(eV/atom)": 0.008091717393842046,
+            "force_rmse(eV/Angstrom)": 0.4764682765163585
+        },
+        "3": {
+            "energy_rmse(eV/atom)": 0.005769507016202065,
+            "force_rmse(eV/Angstrom)": 0.3658004750874127
+        },
+        "4": {
+            "energy_rmse(eV/atom)": 0.007289303699732027,
+            "force_rmse(eV/Angstrom)": 0.38567351482019346
+        },
+        "5": {
+            "energy_rmse(eV/atom)": 0.011411989027194728,
+            "force_rmse(eV/Angstrom)": 0.40923182656937457
+        }
+    },
+    "512": {
+        "1": {
+            "energy_rmse(eV/atom)": 0.007009834861171501,
+            "force_rmse(eV/Angstrom)": 0.31745544091605726
+        },
+        "2": {
+            "energy_rmse(eV/atom)": 0.005814534484204531,
+            "force_rmse(eV/Angstrom)": 0.3810992376517073
+        },
+        "3": {
+            "energy_rmse(eV/atom)": 0.00685351461353356,
+            "force_rmse(eV/Angstrom)": 0.3251919146176877
+        },
+        "4": {
+            "energy_rmse(eV/atom)": 0.0049125578644190595,
+            "force_rmse(eV/Angstrom)": 0.33956016083000906
+        },
+        "5": {
+            "energy_rmse(eV/atom)": 0.004729731078160053,
+            "force_rmse(eV/Angstrom)": 0.3923449824088414
+        }
+    },
+    "1024": {
+        "1": {
+            "energy_rmse(eV/atom)": 0.003267116500877674,
+            "force_rmse(eV/Angstrom)": 0.29052455395157045
+        },
+        "2": {
+            "energy_rmse(eV/atom)": 0.0039942337591576775,
+            "force_rmse(eV/Angstrom)": 0.29386776620114446
+        },
+        "3": {
+            "energy_rmse(eV/atom)": 0.002522258989287727,
+            "force_rmse(eV/Angstrom)": 0.31893761779083496
+        },
+        "4": {
+            "energy_rmse(eV/atom)": 0.004449971270084033,
+            "force_rmse(eV/Angstrom)": 0.3082681372660166
+        },
+        "5": {
+            "energy_rmse(eV/atom)": 0.0030137640499008534,
+            "force_rmse(eV/Angstrom)": 0.2872009405090895
+        }
+    },
+    "2048": {
+        "1": {
+            "energy_rmse(eV/atom)": 0.0022798931227112165,
+            "force_rmse(eV/Angstrom)": 0.2621550318202198
+        },
+        "2": {
+            "energy_rmse(eV/atom)": 0.00231338508369361,
+            "force_rmse(eV/Angstrom)": 0.27400921739547124
+        },
+        "3": {
+            "energy_rmse(eV/atom)": 0.0040003695389088725,
+            "force_rmse(eV/Angstrom)": 0.33025148143839667
+        },
+        "4": {
+            "energy_rmse(eV/atom)": 0.0030613457972657335,
+            "force_rmse(eV/Angstrom)": 0.25511229819793524
+        },
+        "5": {
+            "energy_rmse(eV/atom)": 0.003036932317721553,
+            "force_rmse(eV/Angstrom)": 0.31304911151758436
+        }
+    },
+    "4096": {
+        "1": {
+            "energy_rmse(eV/atom)": 0.002347364092866292,
+            "force_rmse(eV/Angstrom)": 0.26799846495407076
+        },
+        "2": {
+            "energy_rmse(eV/atom)": 0.0029807275486225795,
+            "force_rmse(eV/Angstrom)": 0.2664732457569257
+        },
+        "3": {
+            "energy_rmse(eV/atom)": 0.0027349697681299636,
+            "force_rmse(eV/Angstrom)": 0.29527518168686456
+        },
+        "4": {
+            "energy_rmse(eV/atom)": 0.0019784966102936643,
+            "force_rmse(eV/Angstrom)": 0.2659017867673642
+        },
+        "5": {
+            "energy_rmse(eV/atom)": 0.002983704561620894,
+            "force_rmse(eV/Angstrom)": 0.25795077417006596
+        }
+    }
+}

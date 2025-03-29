@@ -1,0 +1,18 @@
+name = "RingStatistics"
+uuid = "43fb643d-3a43-401c-b496-fc525dbd4596"
+authors = ["tcnicholas <tcnicholas@me.com>"]
+version = "0.1.0"
+
+[deps]
+CrystalNets = "7952bbbe-a946-4118-bea0-081a0932faa9"
+Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
+PeriodicGraphEmbeddings = "f305370e-dc8e-427a-bb15-d3949eabeccf"
+PeriodicGraphs = "18c5b727-b240-4874-878a-f2e242435bab"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+
+[compat]
+CrystalNets = "0.5.0"
+Graphs = "1.12.0"
+PeriodicGraphEmbeddings = "0.3.3"
+PeriodicGraphs = "0.10.3"
+PyCall = "1.96.4"
