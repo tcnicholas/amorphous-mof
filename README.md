@@ -3,7 +3,7 @@
 <div align="center">
     
 > **The structure and topology of an amorphous metal–organic framework**\
-> _[Thomas C. Nicholas](https://tcnicholas.github.io/), Daniel F. Thomas du Toit, Louise A. M. Rosset, Davide M. Proserpio, [Andrew L. Goodwin](https://goodwingroupox.uk/), and [Volker L. Deringer](http://deringer.chem.ox.ac.uk)_
+> _[Thomas C. Nicholas](https://tcnicholas.github.io/), Daniel F. Thomas du Toit, Louise A. M. Rosset, [Chiheb Ben Mahmoud](https://www.materials.ox.ac.uk/peoplepages/benmahmoud.html), Davide M. Proserpio, [Andrew L. Goodwin](https://goodwingroupox.uk/), and [Volker L. Deringer](http://deringer.chem.ox.ac.uk)_
 
 </div>
 
@@ -11,15 +11,15 @@
 
 ## Repository overview
 
-This repository accompanies a manuscript to be submitted in due course, and 
-contains data and structural models analysed and discussed therein.
+This repository accompanies a manuscript currently under review, and contains 
+data and structural models analysed and discussed therein.
 
 ### Data
 
 
 - **MLIP model parameters**
   
-  - Final ACE MLIP potential: [`zif-ace-24.yaml`](data/mlips/zif-ace-24.yaml).
+  - Final ACE MLIP potential: [`zif-ace-24.yaml`](data/mlips/ace/zif-ace-24.yaml).
   - Additional crystalline-upweighted ACE models (as described in Supplementary Note 1).
   - GAP MLIP parameter files exceed GitHub's file-size limitations and will be deposited in the accompanying Zenodo repository upon publication.
 
